@@ -1,0 +1,1 @@
+Hello, this prject is all about creating a geophysics basic calculator to help students see the meaning of their answers. Hopefully it works and I can get more help with this. As it progresses, we will add more and more cool stuff into it. Stay tuned
